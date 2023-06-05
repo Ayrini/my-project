@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
       - name: Run a logical code
         run: |
-          echo 1+1=2
+          ls
