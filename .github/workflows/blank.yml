@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
       - name: Run a logical code
         run: |
-          ls
+          run test1.py
