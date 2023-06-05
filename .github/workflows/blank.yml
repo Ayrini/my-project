@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
       - name: Run a logical code
         run: |
-          python test1.py
+          nano test1.py
